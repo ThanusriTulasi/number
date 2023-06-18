@@ -1,0 +1,14 @@
+#po{
+    margin:auto;
+    height:350px;
+    width:900px;
+    background-color:indigo;
+    color:white;
+    border:4px solid black;
+}
+#result{
+    height:30px;
+    width:fit-content;
+    background-color: indigo;
+    color:white;
+}
